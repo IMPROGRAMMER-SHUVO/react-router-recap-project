@@ -1,0 +1,15 @@
+.orange{
+    background-color: orange;
+}
+.green{
+    background-color: rgb(0, 255, 136);
+}
+.blue{
+    background-color: rgb(0, 81, 255);
+}
+.red{
+    background-color: rgb(255, 0, 149);
+}
+h3{
+    font-weight: bold;
+}

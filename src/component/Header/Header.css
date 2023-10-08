@@ -1,0 +1,48 @@
+.allnav{
+font-size: large;
+    color: #000;
+    text-align: right;
+    background-color: rgb(137, 219, 148);
+    padding: 25px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow:3px 3px 3px gray
+
+   
+}
+.allnav a {
+    padding: 14px;
+    margin-left: -3px;
+    text-decoration: none;
+    color: lavender;
+}
+.allnav a:hover{
+    color: bisque;
+    text-justify: newspaper;
+}
+.text{
+ vertical-align:middle;
+  width: 20px;
+  color: gray
+}
+
+.bank{
+    vertical-align:middle;
+    width: 20px;
+    color: gray
+}
+.shpping{
+    vertical-align:middle;
+    width: 20px ;
+    color: gray
+}
+.more{
+    vertical-align:middle;
+    width: 20px ;
+    color: gray
+}
+.grandpa{
+    vertical-align:middle;
+    width: 20px ;
+    color: gray
+}
